@@ -24,11 +24,11 @@
 #include <stdio.h>
 #include "settings.h"
 
+#include "opencv2/opencv.hpp"
+
 #include <GL/glx.h>
 #include <GL/gl.h>
 #include <GL/glu.h>
-
-#include "opencv2/opencv.hpp"
 
 #include "ros/package.h"
 
